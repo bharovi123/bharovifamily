@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bharovifamily/static/css/main.5879a282.css",
+    "main.js": "/bharovifamily/static/js/main.2655f33e.js",
+    "static/js/787.74104580.chunk.js": "/bharovifamily/static/js/787.74104580.chunk.js",
+    "static/media/charity1.jpg": "/bharovifamily/static/media/charity1.18a9877b8d29e805f45a.jpg",
+    "static/media/v-call.jpg": "/bharovifamily/static/media/v-call.48236eb05b9c7a241c33.jpg",
+    "static/media/bkf_logo.jpg": "/bharovifamily/static/media/bkf_logo.7e302030db6c19061750.jpg",
+    "static/media/logo.svg": "/bharovifamily/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bharovifamily/index.html",
+    "main.5879a282.css.map": "/bharovifamily/static/css/main.5879a282.css.map",
+    "main.2655f33e.js.map": "/bharovifamily/static/js/main.2655f33e.js.map",
+    "787.74104580.chunk.js.map": "/bharovifamily/static/js/787.74104580.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5879a282.css",
+    "static/js/main.2655f33e.js"
+  ]
+}
