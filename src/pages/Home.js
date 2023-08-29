@@ -20,7 +20,7 @@ const Home = () => {
 
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto flex flex-wrap">
-                    <h2 className="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5">Welcome to Bharovi Kranti Family :</h2>
+                    <h2 className="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-2/5">Welcome to Bharovi Kranti Family</h2>
                     <h2 className="sm:text-3xl text-xl text-gray-900 font-medium title-font mb-2 md:w-2/5">Your Path to Lasting Connections and Happiness</h2>
                     <div className="md:w-3/5 md:pl-6">
                         <p className="leading-relaxed text-base">At Bharovi Kranti Family, we understand that finding the right partner and building a strong, fulfilling relationship is a journey that requires careful consideration, empathy, and support. We are dedicated to being your trusted companion on this remarkable journey, guiding you through the complexities of relationships and helping you create a bond that stands the test of time.</p>
